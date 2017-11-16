@@ -1,4 +1,4 @@
-Has Offers API + PUSHOVER Integration
+HasOffers API + PUSHOVER Integration
 =====================================
 
-Queries the HasOffers API and pushes notifications using Pushover.
+Queries the HasOffers Affiliate Program API and pushes notifications using Pushover.
